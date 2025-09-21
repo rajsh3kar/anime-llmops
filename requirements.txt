@@ -1,10 +1,10 @@
 langchain
 langchain-community
 langchain_groq
+langchain_chroma
 chromadb
 streamlit
 pandas
 python-dotenv
 sentence-transformers
 langchain_huggingface
-langchain_chroma
